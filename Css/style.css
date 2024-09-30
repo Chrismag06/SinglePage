@@ -70,21 +70,31 @@
     /* border-color: rgb(16, 220, 77); */
   }
 
-  .LesLiens {
+  .Liens {
     display: flex;
     justify-content: right;
     text-align: right;
     vertical-align: middle;
     justify-content: center;
     align-items: center;
-    /* border-style: solid; */
-    /* border-color: red; */
+    border-style: solid; 
+    border-color: red;
   }
 
   .Bienvenue {
     align-items: center;
     text-align: center;
-    /* background-image: url('Img/mer.jpg'); */
+    color: #f2f2f2;
+    font-weight: bold;
+    font-size: large;
+    background-color: rgb(64, 98, 167);
+    width: 80%;  
+    margin-left: auto;
+    margin-right: auto;
+    padding:2px 0px 5px 2px; 
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-radius: 10px;
   }
 
   .POECJava {
@@ -140,7 +150,7 @@
 
   hr.Central{
     border: 2px solid rgb(4, 4, 101);
-    width: 95%;
+    width: 80%;
   }
 
   /* #section {

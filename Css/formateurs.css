@@ -10,7 +10,7 @@ div.formateurs{
     text-align: center;
 }
 
-section.formateur{
+div.formateur{
     float: left;  
     /* border-style: solid;  
     border-color: rgb(7, 2, 91);   */
@@ -28,7 +28,6 @@ p{
 p.presentation{
     text-align: justify;
     color: #f2f2f2;
-    width: 90%;
     margin-left: auto;
     margin-right: auto;
 }
