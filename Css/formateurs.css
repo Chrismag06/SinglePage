@@ -4,20 +4,21 @@ div.formateurs{
     margin-right: auto;
     width: 80%;
     height: 500px; 
-    padding-top: 10px; 
-    border-style: solid; 
-    border-color: rgb(7, 2, 91);
+    padding: 10px 20px 15px 20px; 
+    /* border-style: solid; 
+    border-color: rgb(7, 2, 91); */
     text-align: center;
 }
 
-section.formateurs{
+section.formateur{
     float: left;  
-    /* border-style: solid;  */
-    /* border-color: rgb(7, 2, 91);   */
+    /* border-style: solid;  
+    border-color: rgb(7, 2, 91);   */
     background-color:#6cf;
-    width: 31%;
+    width: 25%;
     height: 350px;
-    padding: 0px 0px 15px 15px; 
+    padding: 0px 20px 15px 20px; 
+    margin: 20px;
 }
 
 p{
@@ -36,10 +37,10 @@ p.titre{
     color: #f2f2f2;
     font-weight: bold;
     font-size: x-large;
-    background-color: rgb(62, 62, 197);
+    background-color: rgb(64, 98, 167);
     text-decoration: underline overline;
     text-decoration-color: rgb(104, 153, 196);
-    text-decoration-style:wavy;
+    /* text-decoration-style:wavy; */
     /* text-decoration-thickness:unset; */
     padding: 15px 0px 15px 0px; 
 }
